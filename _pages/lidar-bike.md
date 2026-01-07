@@ -53,9 +53,10 @@ You can also **<a href="https://fenggroup.org/pointcloud/examples/bike-2.html" t
 
 ### Open data repository
 
-We have developed an [open data repository] (https://www.dropbox.com/scl/fo/cwd085i7kb1kek6b1vwgb/AJGd-YTjFgouH9MSV4mVHxg?rlkey=qmtywmpwvrh6aun7b9ldht4sd&st=92eg5tbr&dl=0) to share the point cloud and camera data that were collected by our lidar bike.
-If you are interested in the data, start with the `README.md` file located in the root directory of the repository. 
-For any questions or issues please email Dr. Fred Feng at <fredfeng@umich.edu>.
+We have developed an [open data repository](https://www.dropbox.com/scl/fo/cwd085i7kb1kek6b1vwgb/AJGd-YTjFgouH9MSV4mVHxg?rlkey=qmtywmpwvrh6aun7b9ldht4sd&st=92eg5tbr&dl=0) to share the data that were collected by our lidar bike.
+It includes the synchronized lidar data and camera data at 10 Hz with timestamps.
+If you are interested in exploring the data, start with the `README.md` file located in the root directory of the repository (linked above). 
+For any questions or issues regarding the repository please email Dr. Fred Feng at <fredfeng@umich.edu>.
 
 
 <br><br>
