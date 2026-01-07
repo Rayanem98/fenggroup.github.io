@@ -39,10 +39,23 @@ You can also **<a href="https://fenggroup.org/pointcloud/examples/bike-2.html" t
 <iframe width="900" height="510" frameBorder="0" src="https://fenggroup.org/pointcloud/examples/bike-2.html"></iframe>
 </div>
 
-### Lidar recording demo video
+### Lidar recording demo
 
 <div class="video-container">
 <iframe width="900" height="510" src="https://www.youtube.com/embed/gmzX6tZ84Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Overtaking bicyclists lidar point cloud and camera data demo
+
+<div class="video-container">
+<iframe width="900" height="510" src="https://www.youtube.com/embed/-ljcRm7nS6o?si=liq0YwYmtyQfHx4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Open data repository
+
+We have developed an [open data repository] (https://www.dropbox.com/scl/fo/cwd085i7kb1kek6b1vwgb/AJGd-YTjFgouH9MSV4mVHxg?rlkey=qmtywmpwvrh6aun7b9ldht4sd&st=92eg5tbr&dl=0) to share the point cloud and camera data that were collected by our lidar bike.
+If you are interested in the data, start with the `README.md` file located in the root directory of the repository. 
+For any questions or issues please email Dr. Fred Feng at <fredfeng@umich.edu>.
+
 
 <br><br>
